@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganga-halligerimath&label=Profile%20views&color=0e75b6&style=flat" alt="ganga-halligerimath" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce website(Food Delivery using ReactJS)**
 
 - 🌱 I’m currently learning **DJANGO,REACTJS**
 
